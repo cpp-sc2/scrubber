@@ -30,6 +30,5 @@ $ ./bin/Scrubber -p 8167 -m 2020S2/DeathAuraLE.SC2Map > out.json
 ```
 
 ## License
-Copyright (c) 2021 Alexander Kurbatov
-
+Copyright (c) 2021-2024 Alexander Kurbatov
 Licensed under the [MIT license](LICENSE).

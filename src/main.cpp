@@ -1,7 +1,3 @@
-// The MIT License (MIT)
-//
-// Copyright (c) 2021 Alexander Kurbatov
-
 #include "bot.h"
 
 #include <sc2utils/sc2_arg_parser.h>

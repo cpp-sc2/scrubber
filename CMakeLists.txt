@@ -1,7 +1,3 @@
-# The MIT License (MIT)
-#
-# Copyright (c) 2021 Alexander Kurbatov
-
 cmake_minimum_required(VERSION 3.1)
 
 project(Scrubber)

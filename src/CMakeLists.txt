@@ -1,7 +1,3 @@
-# The MIT License (MIT)
-#
-# Copyright (c) 2021 Alexander Kurbatov
-
 file(GLOB_RECURSE BOT_SOURCES "*.cpp" "*.h")
 
 include_directories(SYSTEM
